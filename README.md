@@ -162,7 +162,7 @@ Alur praktik yang dipandu di akhir sesi:
 
 ## 3. Pendapat Pribadi tentang Day 1
 
-Jujur saja, Day 1 ini lebih padat dari bayangan saya. Kelihatannya cuma "belajar Git", tapi ternyata diawali dulu dengan prompt engineering, dan menurut saya urutan itu pas. Bagian prompt bikin saya sadar kalau selama ini saya sering menulis perintah ke AI sekenanya, lalu menyalahkan hasilnya.
+Jujur saja, Day 1 ini lebih padat dari bayangan saya. Kelihatannya cuma "belajar Git", tapi ternyata diawali dulu dengan prompt engineering, dan menurut saya urutan itu pas. Bagian prompt bikin saya sadar kalau selama ini saya sering menulis perintah ke AI seenaknya, lalu menyalahkan hasilnya.
 
 Bagian paling menantang buat saya adalah setup SSH key. Banyak langkah, banyak perintah, dan satu salah ketik saja bisa bikin ngadat. Tapi begitu muncul pesan *successfully authenticated*, rasanya lumayan puas.
 
