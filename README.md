@@ -1,7 +1,7 @@
 # Day 1 Workshop: From AI to GitHub
 
 **Nama Lengkap:** Abid Rahmat Maulana
-**Kelompok:** [Isi Nama_Kelompok]
+**Kelompok:** [Roblox Kelompok 24]
 **Workshop:** Building with AI, Managing Change with GitHub
 **Pemateri:** Nugi Farhan (Senior Product Designer)
 
