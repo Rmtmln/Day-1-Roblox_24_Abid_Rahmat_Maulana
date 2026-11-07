@@ -11,9 +11,7 @@
 
 Repository ini adalah rumah buat semua catatan dan dokumentasi yang saya kumpulkan selama mengikuti Day 1 workshop. Isinya bukan kode yang rumit. Lebih ke jurnal belajar: apa yang disampaikan pemateri, apa yang nyangkut di kepala, dan apa yang menurut saya patut dicatat.
 
-Repository ini bersifat **Public**, jadi siapa pun, termasuk panitia, bisa membukanya tanpa izin khusus.
-
-## Tujuan dan Kegunaan Repository
+Tujuan dan Kegunaan Repository
 
 - Jadi tempat penyimpanan dokumentasi workshop secara online.
 - Latihan langsung membuat dan mengelola repository GitHub dengan visibilitas Public.
@@ -171,6 +169,17 @@ Jujur saja, Day 1 ini lebih padat dari bayangan saya. Kelihatannya cuma "belajar
 Bagian paling menantang buat saya adalah setup SSH key. Banyak langkah, banyak perintah, dan satu salah ketik saja bisa bikin ngadat. Tapi begitu muncul pesan *successfully authenticated*, rasanya lumayan puas.
 
 Hal yang paling saya suka adalah praktiknya. Teori Git bisa terasa kering, tapi begitu benar-benar `commit` dan `push` ke repo sendiri, semuanya jadi masuk akal. Ke depan saya ingin lebih rajin commit kecil-kecil dan belajar soal branch serta pull request lebih dalam.
+
+---
+
+
+---
+## Dokumentasi Foto
+
+![Suasana workshop Day 1](images/bbc1d123-4641-4683-b8d4-9bc009f7fcb8.jpeg)
+![Hasil setup SSH berhasil](images/d5643983-00c7-41b0-8990-09e6fb2dd6f4.jpeg)
+![Codingan Web Workshop](images/decba4cf-8b7b-4cf9-8c9e-5c68c320a325.jpeg)
+![Foto Bersama Kelompok](images/acef10b9-a704-4c93-ad4a-a21adaa20c5f.jpeg)
 
 ---
 
